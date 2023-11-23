@@ -1,0 +1,4 @@
+# Cuando sincronicemos nuestro repositorio, vamos a ignorar los archivos con codigo .txt
+*.txt
+:
+
